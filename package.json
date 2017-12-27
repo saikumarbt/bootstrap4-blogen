@@ -1,0 +1,23 @@
+{
+  "name": "Blogen",
+  "version": "1.0.0",
+  "description": "Blogging Admin UI - Multipage Theme",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "keywords": [
+    "Bootstrap4"
+  ],
+  "author": "Sai Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha.6",
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.21.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
